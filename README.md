@@ -18,7 +18,7 @@
 [![Website](https://img.shields.io/badge/gregoriopunzano.com-FF6B00?style=flat&logo=safari&logoColor=white)](https://gregoriopunzano.com)
 [![X](https://img.shields.io/badge/@gregoriopunzano-000000?style=flat&logo=x&logoColor=white)](https://x.com/gregoriopunzano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gregorio-punzano)
-[![Substack](https://img.shields.io/badge/Block_Hero_Newsletter-FF6314?style=flat&logo=substack&logoColor=white)](https://gregoriopunzano.substack.com)
+[![Substack](https://img.shields.io/badge/Gregorio Punzano_Newsletter-FF6314?style=flat&logo=substack&logoColor=white)](https://gregoriopunzano.substack.com)
 [![Satolink](https://img.shields.io/badge/⚡_Satolink-FF6B00?style=flat&logoColor=white)](https://satolink.com)
 
 </div>
