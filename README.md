@@ -74,7 +74,7 @@ Mission     : Making Bitcoin work for everyone
   
   Non-custodial Bitcoin. No bank. No permission. Just your name.
   
-  Pre-seed. Real users. Growing.
+  Lightning Network. Real users. Growing.
   Target markets: Venezuela · Nigeria · Argentina
                   Indonesia · Philippines · El Salvador
 
@@ -90,7 +90,7 @@ NOW ─────────────────────────�
 
 ```
 drwxr-xr-x  satolink/          ⚡ Bitcoin address → simple URL
-                                   Lightning Network · No KYC · Self-custody
+                                   Lightning Network · Bitcoin / USDT · Self-custody
                                    → https://satolink.com
 
 drwxr-xr-x  block-hero/        📩 Weekly newsletter on Bitcoin & freedom
