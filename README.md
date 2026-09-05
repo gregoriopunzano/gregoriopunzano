@@ -73,7 +73,7 @@ Mission     : Making Bitcoin work for everyone
   
   ⚡ satolink.com/you
   
-  No KYC. No bank. No permission. Just your name.
+  Non-custodial Bitcoin. No bank. No permission. Just your name.
   
   Pre-seed. Real users. Growing.
   Target markets: Venezuela · Nigeria · Argentina
