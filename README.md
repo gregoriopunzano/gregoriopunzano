@@ -94,9 +94,6 @@ drwxr-xr-x  satolink/          ⚡ Bitcoin address → simple URL
                                    Lightning Network · No KYC · Self-custody
                                    → https://satolink.com
 
-drwxr-xr-x  koryntia/          🔗 Where the Bitcoin journey started
-                                   → https://koryntia.com
-
 drwxr-xr-x  block-hero/        📩 Weekly newsletter on Bitcoin & freedom
                                    3,000+ readers
                                    → https://gregoriopunzano.substack.com
